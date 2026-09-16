@@ -2036,15 +2036,15 @@
   place: Linköping, SE
   tags: [SEC, PRIV, CRYPTO, SHOP, OTHERS]
 
-- name: IdentityShield 2027
-  description: "Where World talks CyberSecurity, AI, and Privacy"
-  year: 2027
-  link: identityshieldconference.com
-  deadline: ["2027-02-03 23:59"]
-  comment:
-  date: February 04-06
-  place: Hyatt Regency Pune & Residences
-  tags: [SEC, PRIV]
+- name: AgentCy
+  description: "Workshop on Agentic AI for Cybersecurity: Offensive and Defensive Perspectives"
+  year: 2026
+  link: https://www.ares-conference.eu/agentcy
+  deadline: ["2026-05-18 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP, OTHERS]
 
 - name: SAFE-ML
   description: International Workshop on Secure, Accountable, and Verifiable Machine Learning
